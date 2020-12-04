@@ -1,0 +1,119 @@
+
+---
+title: "DIY Biostats BootCamp"
+output:
+ html_document:
+    df_print: paged
+    code_folding: hide
+    toc: TRUE
+    toc_depth: 4
+    toc_float: true
+    theme: journal
+    highlight: zenburn
+    smart: false
+
+---
+
+
+Hello World
+
+Author: OA Lab, NWFSC
+Title: Kate's DIY Biostats BootCamp
+Date: December 2020
+
+
+# Version Check
+```{r 0.1 Version Check , echo=FALSE, results=FALSE, message=FALSE, warning=FALSE}
+#*********************************
+## Version Check
+#********************************* 
+R.version
+
+```
+
+
+# Libraries
+```{r 0.0 Libraries , echo=FALSE, results=FALSE, message=FALSE, warning=FALSE}
+#*********************************
+##Libraries
+#********************************* 
+library(stringr)
+library(tidyverse)
+library(plyr)
+library(nlme)
+library(tidyr)
+#for graphing
+library(ggplot2)
+library(stringr)
+library(nlme)
+library(RColorBrewer)
+#statistical analysis
+library(gdata)
+library(rsq)
+library(doBy)
+#Rnotebooks 
+library(gridExtra)
+library(kableExtra)
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+#**************E*N*D*************# 
+#*********************************
+## END OF SCRIPT | END OF DOCUMENT 
+#*********************************
+```
+
+
+## END OF SCRIPT | END OF DOCUMENT
+
